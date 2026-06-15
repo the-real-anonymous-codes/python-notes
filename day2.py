@@ -51,3 +51,5 @@ print(c//d) #prints 30/10.5 i.e 2.0
 # ** i.e exponent i.e power i.e index
 print(a**b) #prints 20^10  i.e 10240000000000
 print(c**d) #prints 30^10.5 i.e 3234246929812255.5
+
+# Comparison
