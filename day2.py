@@ -52,4 +52,27 @@ print(c//d) #prints 30/10.5 i.e 2.0
 print(a**b) #prints 20^10  i.e 10240000000000
 print(c**d) #prints 30^10.5 i.e 3234246929812255.5
 
-# Comparison
+# % i.e modulus i.e remainder
+print(a%b) #prints remiander of 20/10 i.e 0
+print(c%d) #prints remainder of  30/10.5 i.e 9.0
+
+'''
+SEQUNCE
+() : Brakets
+** : Exponent
+* , / , // , %  : Mulitplication , divison , floor division , modulus   (all at same level jo phele aaya)
++ , - : add , subtract '''
+
+# Comparison operators
+
+# (== , > , < ,>= , <= , !=) 
+# equal to , greater than , less than , greater or equal , less or equal , not equal
+# comparison operators always gives bool  value as output
+
+print(12==13) #False
+print(12>14) #False
+print(145 < 23456789) #True
+print(120 <= 120) #True
+print(1234 >= 1) #False
+print(12 != 12) #False
+print(22 != 21) #True
