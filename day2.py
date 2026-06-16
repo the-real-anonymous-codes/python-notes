@@ -3,7 +3,7 @@
 
 name = input("Enter your name: ")
 # value entered by user is always save as str
-# To convert it into int , float , boolean we use int() , float() , and bool() function repestively
+# To convert it into int , float , boolean we use int() , float() , and bool() function respectively
 
 age = int(input("Enter your age: "))
 '''OUTPUT'''
@@ -15,7 +15,7 @@ print("Hi",name,"you are",age,"years old")
 print(f"Hi {name} you are {age} years old")
 
 '''OPERATORS'''
-# ARITHEMIC operators
+# ARITHMETIC operators
 # for maths calculations there are various operators in python given below
 # + , - , * , / , // , ** , %
 # operators even works for float value
@@ -53,14 +53,14 @@ print(a**b) #prints 20^10  i.e 10240000000000
 print(c**d) #prints 30^10.5 i.e 3234246929812255.5
 
 # % i.e modulus i.e remainder
-print(a%b) #prints remiander of 20/10 i.e 0
+print(a%b) #prints remainder of 20/10 i.e 0
 print(c%d) #prints remainder of  30/10.5 i.e 9.0
 
 '''
-SEQUNCE
-() : Brakets
+sequence
+() : brackets
 ** : Exponent
-* , / , // , %  : Mulitplication , divison , floor division , modulus   (all at same level jo phele aaya)
+* , / , // , %  : multiplication , division , floor division , modulus   (all at same level jo phele aaya)
 + , - : add , subtract '''
 
 # Comparison operators
@@ -73,6 +73,13 @@ print(12==13) #False
 print(12>14) #False
 print(145 < 23456789) #True
 print(120 <= 120) #True
-print(1234 >= 1) #False
+print(1234 >= 1) #True
 print(12 != 12) #False
 print(22 != 21) #True
+
+# Logical operators
+# and , or , not 
+
+# If any condition is False 'and' operator prints False
+#  If any condition is True 'or' operator prints True
+# not flips True into False and  False into True 
