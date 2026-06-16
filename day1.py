@@ -114,4 +114,4 @@ print(bool(c)) #True
 print(bool(d))  #False
 print(bool(e)) #False
 
-'''NOTE for python 2.0 = 2 and 2345678.0 = 2345678  '''
+''' NOTE for python 2.0 = 2 and 2345678.0 = 2345678  '''
