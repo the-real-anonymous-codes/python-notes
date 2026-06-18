@@ -36,4 +36,4 @@ else :
 # you can enter as much conditions using if - elif 
 # you can also enter as much conditions in a if or elif block using 'or'  or  'and' operators
 
-'''' for more projects on if elif else visit my repo on github https://github.com/Lalitsirvi2010/if-elif-else-practice '''
+'''' for more projects on if elif else visit my repo on github https://github.com/sirvilalit/if-elif-else-practice '''

@@ -6,3 +6,13 @@
 """ There are two types of loops in python 
 1st For loop
 2nd While loop """
+
+# For loop
+
+# If u  want to run something "n" numbers of times where  "n" is a non negative intger
+#  then u have to use for loop
+
+# while loop
+
+# if u want to run something until the condition becames False and you dont knnow  when condition will became False
+# then u have to use while loop
