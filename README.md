@@ -28,7 +28,7 @@ This repository contains educational materials, code snippets, and documentation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Lalitsirvi2010/python-notes.git
+git clone https://github.com/sirvilalit/python-notes.git
 ```
 
 2. Navigate to the repository:
