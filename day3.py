@@ -1,3 +1,34 @@
+print("Comparison operators")
+
+print(" (== , > , < ,>= , <= , !=) ") 
+# equal to , greater than , less than , greater or equal , less or equal , not equal
+# comparison operators always gives bool  value as output
+
+print(12==13) #False
+print(12>14) #False
+print(145 < 23456789) #True
+print(120 <= 120) #True
+print(1234 >= 1) #True
+print(12 != 12) #False
+print(22 != 21) #True
+
+print("Logical operators")
+print("and , or , not") 
+
+print("If any condition is False 'and' operator prints False")
+
+print((2==2) and (9 != 9)) #Here one condition is True and one is False and operator "and" is used so it will print False 
+print((3 > 22) and (788 <= 789) and (334 == 344)) #Here one condition is False and two conditions are True and operator 'and is used  so it will print False
+print((2==2) or (0 < 343) or (23>=22)) #Here all conditions are True and operator "and" is used so it will print True
+
+print("If any condition is True 'or' operator prints True")
+
+print((2==2) or (9 != 9)) #Here one condition is True and one is False and operator "or" is used so it will print True
+print((3 > 22) or (788 <= 789) or (334 == 344)) #Here one condition is False and two conditions are True and operator 'or' is used  so it will print True
+print((2==3) or (0> 343) or (23<=22)) #Here all conditions are False and operator "or" is used so it will print False
+
+print("Not flips True into False and  False into True")
+
 '''CONDITIONAL STATEMENTS'''
 
 

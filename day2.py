@@ -1,5 +1,5 @@
 """INPUT"""
-# To take input from user we use input() function
+print("To take input from user we use input() function")
 
 name = input("Enter your name: ")
 # value entered by user is always save as str
@@ -63,23 +63,3 @@ sequence
 * , / , // , %  : multiplication , division , floor division , modulus   (all at same level jo phele aaya)
 + , - : add , subtract '''
 
-# Comparison operators
-
-# (== , > , < ,>= , <= , !=) 
-# equal to , greater than , less than , greater or equal , less or equal , not equal
-# comparison operators always gives bool  value as output
-
-print(12==13) #False
-print(12>14) #False
-print(145 < 23456789) #True
-print(120 <= 120) #True
-print(1234 >= 1) #True
-print(12 != 12) #False
-print(22 != 21) #True
-
-# Logical operators
-# and , or , not 
-
-# If any condition is False 'and' operator prints False
-#  If any condition is True 'or' operator prints True
-# not flips True into False and  False into True 

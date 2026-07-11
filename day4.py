@@ -9,10 +9,10 @@
 
 # For loop
 
-# If u  want to run something "n" numbers of times where  "n" is a non negative intger
+# If u  want to run something "n" numbers of times where  "n" is a non negative integer
 #  then u have to use for loop
 
 # while loop
 
-# if u want to run something until the condition becames False and you dont knnow  when condition will became False
+# if u want to run something until the condition becomes False and you dont know  when condition will became False
 # then u have to use while loop

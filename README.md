@@ -24,40 +24,9 @@ This repository contains educational materials, code snippets, and documentation
 - Python 3.7 or higher
 - A text editor or IDE (VS Code, PyCharm, etc.)
 
-### Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Lalitsirvi2010/python-notes.git
-```
-
-2. Navigate to the repository:
-```bash
-cd python-notes
-```
-
-3. Explore the files and run examples:
-```bash
-python script_name.py
-```
-
-## Features
-
-- 📚 Well-organized learning materials
-- 💻 Runnable code examples
-- 📝 Detailed explanations and comments
-- 🔍 Best practices and patterns
-- 🎯 Practical exercises
-
 ## Contributing
 
 Contributions are welcome! If you'd like to add more examples, fix errors, or improve documentation:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
 
 ## License
 
@@ -65,7 +34,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Lalitsirvi2010**
+**sirvilalit**
 
 ## Feedback
 
