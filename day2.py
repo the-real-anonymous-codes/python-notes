@@ -2,12 +2,12 @@
 print("To take input from user we use input() function")
 
 name = input("Enter your name: ")
-# value entered by user is always save as str
-# To convert it into int , float , boolean we use int() , float() , and bool() function respectively
+print("value entered by user is always save as str")
+print("To convert it into int , float , boolean we use int() , float() , and bool() function respectively")
 
 age = int(input("Enter your age: "))
 '''OUTPUT'''
-# There are two ways to give output 
+print("There are two ways to give output") 
 # 1st use one or more strings
 print("Hi",name,"you are",age,"years old")
 
@@ -62,4 +62,3 @@ sequence
 ** : Exponent
 * , / , // , %  : multiplication , division , floor division , modulus   (all at same level jo phele aaya)
 + , - : add , subtract '''
-
