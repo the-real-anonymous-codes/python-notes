@@ -24,6 +24,7 @@ This repository contains educational materials, code snippets, and documentation
 - Python 3.7 or higher
 - A text editor or IDE (VS Code, PyCharm, etc.)
 
+
 ## Contributing
 
 Contributions are welcome! If you'd like to add more examples, fix errors, or improve documentation:
