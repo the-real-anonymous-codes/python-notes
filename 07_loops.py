@@ -14,7 +14,11 @@
 
 # If you want to run something "n" number of times, where "n" is a
 # non-negative integer, you use a for loop.
-
+# range is first function of For loop
+# syntax for range is range(start , stop + 1 , step)
+range(0 , 11 , 1)
+for k in range(0 , 11 , 1):
+    print(k)
 for i in range(5):
     print("Hello my sher", i)
 
