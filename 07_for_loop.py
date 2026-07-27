@@ -40,3 +40,61 @@ for i in range(len(a)):
 for i in range(5):
     print("Hello my sher", i)
 # range(5) generates the numbers 0, 1, 2, 3, 4 - so the loop runs 5 times
+
+# ---------------- break, continue & else ----------------
+
+for b in range(0, 101, 1):
+    if b == 10:
+        break
+    print(b)
+# break immediately exits the loop, so this stops as soon as b reaches 10
+
+for b in range(0, 101, 1):
+    if b == 101:
+        break
+    print(b)
+# break is looking for 101, but range(0, 101) only goes up to 100
+# (the stop value is always exclusive) so this condition is never True,
+# and break never triggers - the loop just runs to completion
+
+for c in range(0, 101, 1):
+    if c == 10:
+        continue
+    print(c)
+# continue skips just that one iteration, so 10 is skipped but the loop keeps going
+
+for c in range(0, 101, 1):
+    if c == 232:
+        continue
+    print(c)
+# continue is looking for 232, but our range only goes up to 100
+# so this condition is never True, and every number prints normally
+
+for c in range(0, 101, 1):
+    if c % 2 != 0:
+        continue
+    print(c)
+# continue skips every odd number, so only even numbers from 0 to 100 are printed
+
+for c in range(0, 101, 1):
+    if c % 2 == 0:
+        continue
+    print(c)
+# continue skips every even number, so only odd numbers from 0 to 100 are printed
+
+for e in range(0, 101, 1):
+    if e == 20:
+        break
+    print(e)
+else:
+    print("This else won't run, because the loop was stopped early by break")
+# the else block of a for loop only runs if the loop finishes WITHOUT hitting a break
+
+for e in range(0, 101, 1):
+    if e == 109:
+        break
+    print(e)
+else:
+    print("This else will run, because break was never triggered")
+# since 109 never appears in range(0, 101), break never fires,
+# so the loop finishes normally and the else block runs
