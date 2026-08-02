@@ -98,3 +98,6 @@ else:
     print("This else will run, because break was never triggered")
 # since 109 never appears in range(0, 101), break never fires,
 # so the loop finishes normally and the else block runs
+
+# For more projects on if-elif-else, visit my repo on GitHub:
+# https://github.com/the-real-anonymous-codes/for-loops-practice
