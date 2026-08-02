@@ -35,7 +35,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**sirvilalit**
+**the-real-anonymous-codes**
 
 ## Feedback
 
