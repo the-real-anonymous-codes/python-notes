@@ -38,4 +38,4 @@ else:
 # You can also combine multiple conditions in a single if/elif block using 'or' or 'and'.
 
 # For more projects on if-elif-else, visit my repo on GitHub:
-# https://github.com/sirvilalit/if-elif-else-practice
+# https://github.com/the-real-anonymous-codes/if-elif-else-practice
