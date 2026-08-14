@@ -24,14 +24,18 @@ This repository contains educational materials, code snippets, and documentation
 - Python 3.7 or higher
 - A text editor or IDE (VS Code, PyCharm, etc.)
 
-
 ## Contributing
 
 Contributions are welcome! If you'd like to add more examples, fix errors, or improve documentation:
 
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes with a clear message.
+4. Open a pull request.
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
@@ -43,4 +47,4 @@ If you have questions, suggestions, or feedback, feel free to open an issue or c
 
 ---
 
-Happy learning! 🐍
+Happy learning! 🌐
