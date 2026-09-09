@@ -99,5 +99,5 @@ else:
 # since 109 never appears in range(0, 101), break never fires,
 # so the loop finishes normally and the else block runs
 
-# For more projects on if-elif-else, visit my repo on GitHub:
+# For more projects on for loops, visit my repo on GitHub:
 # https://github.com/the-real-anonymous-codes/for-loops-practice
